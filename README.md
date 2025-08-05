@@ -1,5 +1,5 @@
 ## R Script Analysis Documentation
-This repository contains R scripts that track the workflow for a data analysis project, from initial cohort definition to a final manuscript revision.
+This repository contains R scripts that track the workflow for the paper "Characteristics of Patients with Advanced HIV Disease and Risk Factors for Mortality in a Contemporary Cohort in South Africa" from initial cohort definition to a final manuscript revision.
 
 ## Project Scripts
 `Script final V1.3 (defining cohort).R`: This script is used to define and prepare the primary study cohort for analysis.
